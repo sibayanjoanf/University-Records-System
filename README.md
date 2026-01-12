@@ -14,11 +14,12 @@ A desktop application developed in **Java** using **Swing (GUI)** and **Oracle D
 * **Libraries:** `ojdbc.jar` `rs2xml.jar`
 
 <p align="center">
-  <img src="assets/Dashboard.png" width="300">
-  <img src="assets/Student Records.png" width="300">
-  <img src="assets/Edit Student.png" width="300">
-  <img src="assets/Subject Schedule.png" width="300">
-  <img src="assets/College Records.png" width="300">
+  <img src="assets/Dashboard.png" width="400">
+  <img src="assets/Student Records.png" width="400">
+  <img src="assets/Edit Student.png" width="400">
+  <img src="assets/Subject Schedule.png" width="400">
+  <img src="assets/Student Grade.png" width="400">
+  <img src="assets/College Records.png" width="400">
 </p>
 
 ## Installation & Setup
